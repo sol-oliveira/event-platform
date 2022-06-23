@@ -1,11 +1,19 @@
-import { CaretRight, DiscordLogo, FileArrowDown, Lightbulb, Lightning } from "phosphor-react";
+import { DefaultUi, Player, Youtube } from "@vime/react";
+import { CaretRight, DiscordLogo, FileArrowDown, Lightning } from "phosphor-react";
+
+import '@vime/core/themes/default.css';
 
 export function Video (){
   return (
     <div className="flex-1">
 
-      <div className="bg-black flex justify=center">
-        <div className="h-full w-full max-w-[1106px] max-h-[60vh] aspect-video"></div>
+      <div className="bg-black flex justify-center">
+        <div className="h-full w-full max-w-[1106px] max-h-[60vh] aspect-video">
+          <Player>
+            <Youtube videoId="Ox_zb2cs9zM" />
+            <DefaultUi />
+          </Player>
+        </div>
       </div>
 
       <div className="p-8 max-w-[1100px] max-auto">        
@@ -65,8 +73,8 @@ export function Video (){
             <div className="h-full p-6 flex  items-center">
               <CaretRight size={24}/>
             </div>
-
           </a>
+
           <a href="#" className="bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors">
             <div className="bg-green-700 h-full p-6 flex items-center">
               <FileArrowDown size={40}/>
@@ -82,7 +90,6 @@ export function Video (){
             <div className="h-full p-6 flex  items-center">
               <CaretRight size={24}/>
             </div>
-
           </a>
         </div>
 
