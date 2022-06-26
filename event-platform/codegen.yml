@@ -10,4 +10,4 @@ generates:
       reactApolloVersion: 3
       withHooks: true
       withHOC: false
-      withcomponent: false
+      withComponent: false
