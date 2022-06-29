@@ -1,4 +1,6 @@
-<img width="900" alt="image" height="400" src=https://user-images.githubusercontent.com/71611273/176328978-2112d399-7635-4dbc-97ec-5c05393b13f0.png />
+<img width="800" alt="image" height="400" src=event_platform.gif/>
+
+
 
 ### Demo
 <a>https://ignite-lab-sol-oliveira.vercel.app/<a>
