@@ -10,17 +10,18 @@
 
 ### 🛠 Tecnologias
 
-- [React](https://pt-br.reactjs.org/)
-- [Node.js](https://nodejs.org/en/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://pt-br.reactjs.org/) - Biblioteca JavaScript
+- [Node.js](https://nodejs.org/en/) - Ambiente de execução back-end JavaScript
+- [TypeScript](https://www.typescriptlang.org/) - Extensão do JavaScript (suporte a módulos, interface, classe e tipagem)
 
-- [Vite](https://vitejs.dev/)
+- [Vite](https://vitejs.dev/) - Ferramenta de build
 
-- [Tailwindcss](https://tailwindcss.com/docs/installation)
+- [Tailwindcss](https://tailwindcss.com/docs/installation) - Framework css
 
-
-- [Graphcms](https://app.graphcms.com/)
+- [Graphcms](https://app.graphcms.com/) Linguagem de consulta e manipulação de dados 
  - - [graphql](https://www.graphql-code-generator.com/docs/guides/react)
+ 
+ - [Apollo](https://www.apollographql.com/docs/react/) - Servidor GraphQL (Controle de cache)
  
  ### 🖥️ Rodando a Aplicação 
 
