@@ -27,7 +27,7 @@ export function Subscriber() {
 
   return(
     <div className="min-h-screen bg-blur bg-cover bg-no-repeat flex flex-col align-center">
-      <div className="w-full max-w-[1100px] flex items-center justify-between mt-20 mx-auto md:flex-col">
+      <div className="w-full max-w-[1100px] flex items-center justify-between mt-10 mx-auto md:flex-col">
         
         <div className="max-w-[640px] md:p-2 md:mb-3 xl:ml-5">
           <div className="md:flex md:justify-center" >
