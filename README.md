@@ -29,7 +29,7 @@
 
 ```bash
 # Clonar repositório
-$ git clone https://github.com/sol-oliveira/ignite-lab.git
+$ git clone https://github.com/sol-oliveira/event-platform.git
 
 # Instale as dependências
 $ npm install
