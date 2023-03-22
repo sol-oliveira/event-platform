@@ -6,7 +6,7 @@
 <a>https://ignite-lab-sol-oliveira.vercel.app/<a>
 
 ## 📋 Sobre
-<p> Plataforma de vídeos aulas.</p>
+<p> Plataforma de eventos com vídeo aulas.</p>
 
 <p><i>Projeto desenvolvido Ignite Lab - React-JS (Rocketseat).</i></p>
 
